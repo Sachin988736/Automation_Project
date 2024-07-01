@@ -1,0 +1,7 @@
+============================= test session starts =============================
+platform win32 -- Python 3.10.11, pytest-7.4.0, pluggy-1.2.0
+rootdir: C:\Users\HP\PycharmProjects\spur-automations
+plugins: html-3.2.0, metadata-3.0.0
+collected 54 items / 3 deselected / 51 selected
+
+Test\test_Charity_reg_page.py ^C
